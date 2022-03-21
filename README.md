@@ -22,3 +22,7 @@ File mở đầu project
 ### Chức năng PRODUCT
 ### Chức năng PRODUCT
 
+### Chức năng ADMIN 2
+### Chức năng ADMIN 2
+### Chức năng ADMIN 2
+
